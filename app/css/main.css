@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+	padding: 0;
+	padding-top: 100px;
+
+	text-align: center;
+}
+
+:hover, :active, :focus {
+	outline: none;
+}
